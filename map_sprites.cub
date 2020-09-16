@@ -1,0 +1,15 @@
+R 700 700
+F 150,150,0
+C 80,80,80
+
+SO ./pics/colorstone.png
+S ./pics/barrel.png
+NO ./pics/mossy 1.png   
+EA ./pics/redbrick.xpm
+WE ./pics/mossy 1.png
+
+1111111111111
+1222222222221
+12222W0002221
+1222222222221
+1111111111111

@@ -1,0 +1,12 @@
+R 1600 800
+SO ./pics/colorstone.png
+S ./pics/barrel.png
+NO ./pics/mossy 1.png   
+EA ./pics/redbrick.xpm
+WE ./pics/mossy 1.png
+F 184,113,39
+C 51,198,227
+
+111
+1N1
+111
