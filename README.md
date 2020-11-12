@@ -4,4 +4,4 @@
 ## Usage
 ``make`` to create the program
 
-``./cub3D [map]`` run this command with a certain map to start the game
+``./cub3D [map.cub]`` run this command with a file that contains a map to start the game
